@@ -16,7 +16,10 @@ Estas entidades se irán definiendo poco a poco a lo largo varios laboratorios, 
 - **Asignatura**: asignatura impartida en un grado.
 - **Centro**: centro docente de la Universidad.
 - **Departamento**: unidad docente de la Universidad formada por profesores. 
-- **Despacho**: espacio ocupado por uno o más profesores.
+- **Despacho**: espacio oc### **Parte II**
+
+En esta segunda parte enriqueceremos los tipos implementados en la Parte I con restricciones, criterios de igualdad y orden, e implementaremos nuestros primeros tipos contenedores. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-02.md](./PARTE-02.md).
+upado por uno o más profesores.
 - **Espacio**: espacio físico de un centro destinado a tareas docentes.
 - **Expediente**: expediente académico de un alumno, formado por todas sus notas.
 - **Grado**: titulación impartida por la Universidad.
@@ -30,3 +33,6 @@ Estas entidades se irán definiendo poco a poco a lo largo varios laboratorios, 
 
 En esta primera parte diseñaremos tipos base que se implemetarán como clases o como records y los correspondientes enumerados para darle soporte. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-01.md](./PARTE-01.md).
 
+### **Parte II**
+
+En esta segunda parte enriqueceremos los tipos implementados en la Parte I con restricciones, criterios de igualdad y orden, e implementaremos nuestros primeros tipos contenedores. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-02.md](./PARTE-02.md).
