@@ -36,3 +36,7 @@ En esta primera parte diseñaremos tipos base que se implemetarán como clases o
 ### **Parte II**
 
 En esta segunda parte enriqueceremos los tipos implementados en la Parte I con restricciones, criterios de igualdad y orden, e implementaremos nuestros primeros tipos contenedores. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-02.md](./PARTE-02.md).
+
+### **Parte III**
+
+En esta tercera parte implementaremos nuevos tipos reutilizando mediante herencia algunos de los tipos ya definidos. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-03.md](./PARTE-03.md).
