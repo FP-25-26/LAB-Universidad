@@ -65,7 +65,7 @@ Se pide:
    b. Define métodos de test para probar la lectura de colecciones de objetos desde ficheros (`testLeeEspacios`, `testLeeDespachos`, `testLeeAsignaturas`, `testLeeAlumnos` y `testLeeNotas`).  (o el nombre de un fichero), invoca al método correspondiente de la factoría dentro de un bloque try–catch, y captura posibles IllegalArgumentException para mostrar un mensaje de error si los datos son incorrectos. Cuando la lectura se realiza correctamente, la colección que se obtiene como resultado de la lectura se debe mostrar por consola, de forma que cada elemento de la colección se muestre en una linea. Para mostrar esta colección por consola se aconseja el uso del método genérico `mostrarIterable`, cuyo código se muestra a continuación.
    
    ```Java
-   	private static <T> void mostrarIterable(Iterable<T> iterable) {
+	private static <T> void mostrarIterable(Iterable<T> iterable) {
 		for (T e: iterable) {
 			System.out.println("\t>>>" + e);
 		}
