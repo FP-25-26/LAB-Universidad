@@ -16,10 +16,7 @@ Estas entidades se irán definiendo poco a poco a lo largo varios laboratorios, 
 - **Asignatura**: asignatura impartida en un grado.
 - **Centro**: centro docente de la Universidad.
 - **Departamento**: unidad docente de la Universidad formada por profesores. 
-- **Despacho**: espacio oc### **Parte II**
-
-En esta segunda parte enriqueceremos los tipos implementados en la Parte I con restricciones, criterios de igualdad y orden, e implementaremos nuestros primeros tipos contenedores. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-02.md](./PARTE-02.md).
-upado por uno o más profesores.
+- **Despacho**: espacio ocupado por uno o más profesores.
 - **Espacio**: espacio físico de un centro destinado a tareas docentes.
 - **Expediente**: expediente académico de un alumno, formado por todas sus notas.
 - **Grado**: titulación impartida por la Universidad.
@@ -40,3 +37,7 @@ En esta segunda parte enriqueceremos los tipos implementados en la Parte I con r
 ### **Parte III**
 
 En esta tercera parte implementaremos nuevos tipos reutilizando mediante herencia algunos de los tipos ya definidos. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-03.md](./PARTE-03.md).
+
+### **Parte IV**
+
+En esta cuarta parte implementaremos constructores a partir de String, una factoría y métodos que se implementan aplicando tratamientos secuenciales con bucles. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-04.md](./PARTE-04.md).
