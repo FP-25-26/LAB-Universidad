@@ -41,3 +41,7 @@ En esta tercera parte implementaremos nuevos tipos reutilizando mediante herenci
 ### **Parte IV**
 
 En esta cuarta parte implementaremos constructores a partir de String, una factoría y métodos que se implementan aplicando tratamientos secuenciales con bucles. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-04.md](./PARTE-04.md).
+
+### **Parte V**
+
+En esta quinta, y última, parte implementaremos operaciones relacionadas con `Map` y `SortedMap`. La descripción de los ejercicios de este bloque se encuentra en el archivo [PARTE-05.md](./PARTE-05.md).
